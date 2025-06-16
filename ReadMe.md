@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Senior student at INHA University in Tashkent 09.2024 - 06.2025<br>🌱 I’m interested in Game Developement, Backend and Machine Learning<br>💼 I’m an ML/DL Engineer at Uzinfocom<br>📫 My E-mail is - o.yokubjonov4154@gmail.com
+🔭 🌱 I’m interested in Game Developement, Backend and Machine Learning<br>💼 I’m a Software Developer at Uzinfocom<br>📫 My E-mail is - o.yokubjonov4154@gmail.com
 
 
 ## 🌐 Socials:
