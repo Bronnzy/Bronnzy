@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 🌱 I’m interested in Game Developement, Backend and Machine Learning<br>💼 I’m a Software Developer at Uzinfocom<br>📫 My E-mail is - o.yokubjonov4154@gmail.com
+🔭 🌱 I’m interested in Game Developement, Backend and Machine Learning<br><br>📫 My E-mail is - o.yokubjonov4154@gmail.com
 
 
 ## 🌐 Socials:
